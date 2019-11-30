@@ -22,7 +22,7 @@
       <span class="item_icon">
         <i class="iconfont icon-geren"></i>
       </span>
-      <span>我的</span>
+      <span>我的5</span>
     </a>
   </div>
 </template>
